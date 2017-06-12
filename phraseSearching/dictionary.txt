@@ -1,0 +1,6 @@
+algorithm          10
+selection sort    20
+sort algorithm 300
+linked list           20
+program            5
+viagra                -100
